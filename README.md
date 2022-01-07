@@ -8,10 +8,10 @@
 
 ### Now my vision is to just become a good and smart web develper.
 
-##Find me around the world:
-#### Portfolio:[Portfolio](https://duckduckgo.com)
-#### LinkedIn:[Linkedin](https://www.linkedin.com/in/vikas-820001201)
-#### Twitter:[Twitter](https://twitter.com/vkg6614)
+## Find me around the world:
+#### Portfolio Link:[Portfolio](https://duckduckgo.com)
+#### LinkedIn Link:[Linkedin](https://www.linkedin.com/in/vikas-820001201)
+#### Twitter Link:[Twitter](https://twitter.com/vkg6614)
 
 
 
