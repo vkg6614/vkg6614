@@ -1,8 +1,19 @@
-### I am learning MERN Stack and Full Stack Web Develper, Bengaluru which makes me busy and professional so that I can make my dream true. I worked on a couple of projects and some couple of data and structure algorithm during my 7 month course. These things make me more professional.
+# Hi, I'm Vikas.
 
-I know about HTML,CSS,Javascript, Reactjs, Redux, Nodejs, NPM packages, Typescript, Postman, mongodb,mongoose etc.
+## An Aspiring and MERN Stack/Full Stack Web Developer.
 
-Now my vision is to just become a good and smart web develper.
+### I am learning MERN Stack and Full Stack Web Develper, Bengaluru which makes me busy and professional so that I can make my dream true. I worked on a couple of projects and a couple of data structure and algorithm during my 7 months course. These things make my mind sharp and professional.
+
+### I know about HTML,CSS,Javascript, Reactjs, Redux, Nodejs, NPM packages, Typescript, Postman, mongodb,mongoose etc.
+
+### Now my vision is to just become a good and smart web develper.
+
+##Find me around the world:
+#### Portfolio:[Portfolio](https://duckduckgo.com)
+#### LinkedIn:[Linkedin](https://www.linkedin.com/in/vikas-820001201)
+#### Twitter:[Twitter](https://twitter.com/vkg6614)
+
+
 
 <!--
 **vkg6614/vkg6614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
