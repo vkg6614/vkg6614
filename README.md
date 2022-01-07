@@ -46,8 +46,7 @@
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&theme=material-palenight"></p>
 <div style="display: flex;">
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
-## Find me around the world:
-    <br/>
+    <h3>Find me around the world</h3>
     <a href="https://porfolio-8aewxp328-vkg6614-gmailcom.vercel.app/">Portfolio</a>
     <br/>
     <a href="https://www.linkedin.com/in/vikas-820001201">Linkedin</a>
