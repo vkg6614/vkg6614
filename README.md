@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Vikas</h1>
 
+### About Me:
+I am a Full-stack web developer and I love programming and technology💻. I thrive on challenges and constantly set goals🎯 for myself, so I have something to strive towards. I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. I’m currently working on something cool😉. Other than the tech I love to play chess📖, do dancing🖌️, listen to music🎵, and explore.
+
+
 - 🔭 I’m currently working on [something secret](https://github.com/vkg6614)
 
 - 🌱 I’m currently learning **MEAN Stack**
