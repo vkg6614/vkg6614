@@ -66,6 +66,4 @@ I am a Full-stack web developer and I love programming and technology💻. I thr
  
  <a href="https://twitter.com/vkg6614" target="_blank"><img style="width:150px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" /> </a>
 </div>
-  
- 
  
