@@ -39,22 +39,33 @@ I am a Full-stack web developer and I love programming and technology💻. I thr
 
   <br/>
  
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkg6614&" alt="vikas" /></p>
 <div align="center">
-<img style="width:80%" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img style="width:80%" alt="Vikas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vkg6614&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
  
 <br/>
     
 ## 😴 The Boring Stuff
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=vkg6614&theme=material-palenight"></p>
-<div style="display: flex;">
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
-    <h3>Find me around the world</h3>
-    <a href="https://porfolio-feqkylpbr-vkg6614-gmailcom.vercel.app/" target="_blank">Portfolio</a>
-    <br/>
-    <a href="https://www.linkedin.com/in/vikas-820001201" target="_blank">Linkedin</a>
-    <br/>
-    <a href="https://twitter.com/vkg6614" target="_blank">Twitter</a>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+  
+  # Find me around the World
+ 
+ <div>
+<a href="https://portfolio-vikas.vercel.app/" target="_blank">Portfolio</a>
+  
+ <a href="https://portfolio-vikas.vercel.app/" target="_blank"><img style="width:150px" src="https://image.shutterstock.com/image-photo/portfolio-text-on-blackboard-business-260nw-1692974065.jpg" /> </a>
 
+ <a href="https://www.linkedin.com/in/vikas-820001201" target="_blank">LinkedIn</a>
+ 
+ <a href="https://www.linkedin.com/in/vikas-820001201"  target="_blank"><img style="width:150px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> </a>
+
+ <a href="https://twitter.com/vkg6614" target="_blank">Twitter</a>
+ 
+ <a href="https://twitter.com/vkg6614" target="_blank"><img style="width:150px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" /> </a>
+</div>
+  
+ 
+ 
